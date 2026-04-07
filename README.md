@@ -65,8 +65,8 @@ Core implementation, architecture, and platform components are maintained in pri
 
 ## Contact
 
-Website: *(Coming Soon)*
-Email: *(To be activated)*
+Website: https://secuone.tech (coming soon)
+Email: info@secuone.tech (to be activated)
 
 ---
 
